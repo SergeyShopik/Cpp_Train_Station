@@ -1,0 +1,8 @@
+Minsk 101 1 12 45
+Paris 303 0 14 50
+Amsterdam 404 1 01 30
+Mogilev 213 1 12 10
+Pinsk 393H 0 21 45
+Moscow 112M 1 20 50
+Minsk 9382 0 11 20
+Amsterdam 382L 0 10 10
